@@ -7,6 +7,10 @@ These are my solutions for the course: 100 Days of Code: The Complete Python Pro
 <h3>🎓 Beginner projects </h3>
 <hr>
 
+Day 3 Project: Treasure Island
+
+<a href="https://github.com/DominikaSybilska/100days-python/tree/master/day03">Click here to see the project</a>
+
 Day 2 Project: Tip Calculator
 
 <a href="https://github.com/DominikaSybilska/100days-python/tree/master/day01">Click here to see the project</a>
