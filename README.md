@@ -7,6 +7,14 @@ These are my solutions for the course: 100 Days of Code: The Complete Python Pro
 <h3>🎓 Beginner projects </h3>
 <hr>
 
+Day 5 Project: Create a Password Generator
+
+<a href="https://github.com/DominikaSybilska/100days-python/tree/master/day05">Click here to see the project</a>
+
+Day 4 Project: Rock Paper Scissors
+
+<a href="https://github.com/DominikaSybilska/100days-python/tree/master/day04">Click here to see the project</a>
+
 Day 3 Project: Treasure Island
 
 <a href="https://github.com/DominikaSybilska/100days-python/tree/master/day03">Click here to see the project</a>
