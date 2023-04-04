@@ -6,12 +6,14 @@ These are my solutions for the course: 100 Days of Code: The Complete Python Pro
 
 <h3>🚀 Intermediate projects </h3>
 <hr>
+
 Day 15 Project: the Coffee Machine Project
 
 <a href="https://github.com/DominikaSybilska/100days-python/tree/master/day15">Click here to see the project</a>
 
 <h3>🎓 Beginner projects </h3>
 <hr>
+
 Day 14 Project: Higher Lower Game Project
 
 <a href="https://github.com/DominikaSybilska/100days-python/tree/master/day14">Click here to see the project</a>
