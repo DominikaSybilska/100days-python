@@ -7,6 +7,14 @@ These are my solutions for the course: 100 Days of Code: The Complete Python Pro
 <h3>🚀 Intermediate projects </h3>
 <hr>
 
+Day 18 Project: The Hirst Painting Project
+
+<a href="https://github.com/DominikaSybilska/100days-python/tree/master/day18">Click here to see the project</a>
+
+Day 17 Project: Quiz Project 
+
+<a href="https://github.com/DominikaSybilska/100days-python/tree/master/day17">Click here to see the project</a>
+
 Day 16 Project: the Coffee Machine Project - OOP
 
 <a href="https://github.com/DominikaSybilska/100days-python/tree/master/day16">Click here to see the project</a>
