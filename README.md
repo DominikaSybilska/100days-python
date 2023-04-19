@@ -7,6 +7,14 @@ These are my solutions for the course: 100 Days of Code: The Complete Python Pro
 <h3>🚀 Intermediate projects </h3>
 <hr>
 
+Day 20 + 21 Project: Snake game
+
+<a href="https://github.com/DominikaSybilska/100days-python/tree/master/day20">Click here to see the project</a>
+
+Day 19 Project:  Make an Etch-A-Sketch App & Turtle race
+
+<a href="https://github.com/DominikaSybilska/100days-python/tree/master/day19">Click here to see the project</a>
+
 Day 18 Project: The Hirst Painting Project
 
 <a href="https://github.com/DominikaSybilska/100days-python/tree/master/day18">Click here to see the project</a>
